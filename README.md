@@ -12,6 +12,10 @@
 - 或者如果你有充足的时间或其他关于这个 repo 的想法，也可以直接发起 Pull request.
 - 当然，你也可以在 issue 里面聊天。
 
+### 如何创建issue并添加图片？
+- 登录GitHub，点击此仓库下的issues标签，点击“+”创建issue.
+- 点击文本框下方的'Attach files by selecting or pasting them.'添加图片.
+
 ### 照片可以拿来干什么？
 
 - 会出现在 6 月计初的计软院毕业晚会的照片墙上哦。
