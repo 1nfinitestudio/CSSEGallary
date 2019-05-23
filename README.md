@@ -2,7 +2,7 @@
 
 ### 这是什么？
 
-- 这里是华东师范大学计软院 2018 年毕业的同学们的相册集。
+- 这里是华东师范大学计软院 2019 年毕业的同学们的相册集。
 
 ### 怎么上传？
 
@@ -14,7 +14,7 @@
 
 ### 如何创建issue并添加图片？
 - 登录GitHub，点击此仓库下的issues标签，点击“+”创建issue.
-- 点击文本框下方的'Attach files by selecting or pasting them.'添加图片.
+- 点击文本框下方的 `Attach files by selecting or pasting them.` 添加图片.
 
 ### 照片可以拿来干什么？
 
